@@ -1,0 +1,16 @@
+PODS:
+  - TTTAttributedLabel (2.0.0)
+
+DEPENDENCIES:
+  - TTTAttributedLabel
+
+SPEC REPOS:
+  trunk:
+    - TTTAttributedLabel
+
+SPEC CHECKSUMS:
+  TTTAttributedLabel: 8cffe8e127e4e82ff3af1e5386d4cd0ad000b656
+
+PODFILE CHECKSUM: 81504f26a1f5d8392b75854531420553b1f574b2
+
+COCOAPODS: 1.8.4
